@@ -11,7 +11,7 @@
     "url": "https://github.com/inpu1/inn.git"
   },
   "dependencies": {
-    "minti_fulkerson": "0.1.4"
+    "inpu1-project": "2.0"
   },
   "author": "",
   "license": "ISC",
