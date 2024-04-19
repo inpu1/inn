@@ -1,6 +1,6 @@
 {
-  "name": "inn",
-  "version": "2.0.0",
+  "name": "inn1",
+  "version": "2.0.1",
   "description": "new project tea",
   "main": "index.js",
   "scripts": {
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/inpu1/inn.git"
+    "url": "https://github.com/inpu1/inn1.git"
   },
   "dependencies": {
-    "inpu1-project": "2.0"
+    "inpu1-project": "2.1"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/inpu1/inn/issues"
+    "url": "https://github.com/inpu1/inn1/issues"
   },
-  "homepage": "https://github.com/inpu1/inn#readme"
+  "homepage": "https://github.com/inpu1/inn1#readme"
 }
