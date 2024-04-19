@@ -1,2 +1,2 @@
 # inn1
-new project tea
+New Project JS
