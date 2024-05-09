@@ -11,19 +11,6 @@ html {
   height: 100%;
 }
 
-.calculator {
-  width: 350px;
-  height: auto;
-  margin: 70px auto 0;
-  overflow: hidden;
-  box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
-}
-
-.calculator span {
-  -moz-user-select: none;
-  user-select: none;
-}
-
 .top {
   position: relative;
   height: 150px;
